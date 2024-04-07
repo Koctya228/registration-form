@@ -137,6 +137,9 @@ main {
     letter-spacing: 1px;
     margin-top: 20px;
     margin-bottom: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .register-form-button:hover {
